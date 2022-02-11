@@ -1,4 +1,4 @@
-## 1. Polygon Academy Dapp
+## Polygon Academy Dapp
 
 <div align=center> 
 <img src="https://avatars.githubusercontent.com/u/88427645?s=200&v=4" style="border-radius:10px">
